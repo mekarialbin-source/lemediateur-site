@@ -75,6 +75,10 @@ html[data-theme="dark"] .nav-links a:hover,html[data-theme="dark"] .nav-links a[
 .nav-ext{white-space:nowrap}
 .theme-btn{width:44px;height:44px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center}
 .theme-btn svg{width:18px;height:18px}
+.wa-btn{width:44px;height:44px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;flex:none}
+.wa-btn:hover{background:rgba(37,211,102,.12)}
+.wa-link{display:inline-flex!important;align-items:center;gap:6px}
+.wa-i{flex:none}
 html[data-theme="dark"] .i-moon,html[data-theme="light"] .i-sun{display:none}
 .nav .btn{min-height:42px;padding:9px 18px;font-size:14px}
 .burger{display:none;width:44px;height:44px;align-items:center;justify-content:center}
